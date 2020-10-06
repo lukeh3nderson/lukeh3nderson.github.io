@@ -8,7 +8,7 @@ This is the most basic program that I wrote to first understand the coding proce
 
 * [Link to my "Hello, World!" program](https://github.com/lukeh3nderson/hello-world-python)
 
-![This is an image of my "Hello, World!" program.](HelloWorld.png)
+![This is an image of my "Hello, World!" program.](HelloWorld.PNG)
 
 
 ## MPG to KPL Converter
